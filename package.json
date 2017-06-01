@@ -1,5 +1,5 @@
 {
-  "name": "@jeremykross/containership.abstraction.api",
+  "name": "@containership/containership.abstraction.api",
   "version": "1.0.6",
   "description": "",
   "main": "index.js",
